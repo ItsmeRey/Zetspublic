@@ -12,11 +12,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281252848955']
+global.owner = ['6285232604817']
 global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = 'Zets Public'
-global.packname = '© ZETS - MULTI DEVICE'
+global.ownername = 'KOKO•REY'
+global.botname = 'KOKO Public'
+global.packname = '© KOKO•REY - MULTI DEVICE'
 global.gc = 'https://bit.ly/3KMlmv2'
 global.limitawal = '100'
 global.author = '@naando.jpeg\n@alya.xzy'
